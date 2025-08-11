@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f8fafc;
+  padding: 40px;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #2563eb;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #cbd5e1;
+  font-size: 18px;
+  color: #1e293b;
+}
